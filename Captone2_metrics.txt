@@ -1,0 +1,5 @@
+Model	R2 score	RMSE	Average error	Accuracy
+Linear regression	0.953	8370	4847°	77.68%
+OLS linear regression	0.946	8379	4810°	77.72%
+Default random forest regressor	0.952	8465	4499°	82.91%
+Parameters tuned random forest regressor 	0.952	8465	4429°	82.98%
